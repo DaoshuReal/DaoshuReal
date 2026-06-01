@@ -17,5 +17,5 @@ You'll usually find me staring at:
 - Documentation I should have read sooner
 
 <div align="center">
-  <img src="cricket.png" width="180" alt="cricket"/>
+  <img src="cricket.webp" width="180" alt="cricket"/>
 </div>
