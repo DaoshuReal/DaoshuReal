@@ -1,16 +1,21 @@
 ## About Me
 
-I’m a low-level systems and security enthusiast with a strong focus on **Windows internals**, **kernel development**, and **software security research**.
+I write C++, reverse engineer things, and occasionally bully Windows into revealing how it actually works.
 
-My interests include:
-- Windows kernel drivers & NT internals
-- Kernel and hypervisor security
-- Vulnerability research & exploit primitives (for defensive understanding)
-- Low-level C++
-- Backend development and system-level tooling
+Current interests:
 
-Most of my projects are **research oriented** and aim to better understand how Windows works internally, how vulnerabilities arise, and how they can be mitigated.
+- Windows kernel development
+- NT internals
+- Reverse engineering
+- Security research
+- Low-level tooling
+
+You'll usually find me staring at:
+- WinDbg
+- IDA
+- Process Hacker
+- Documentation I should have read sooner
 
 <div align="center">
-  <img src="cat.webp" alt="cat" width="220"/>
+  <img src="cricket.png" width="180" alt="cricket"/>
 </div>
