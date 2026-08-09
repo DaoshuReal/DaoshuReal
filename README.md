@@ -17,7 +17,14 @@ You'll usually find me staring at:
 - Documentation I should have read sooner
 
 <div align="center">
-  <img src="cricket.webp" width="180" alt="cricket"/>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="cricket.webp" width="180" alt="cricket"/>
+      </td>
+      <td align="center">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daoshureal&theme=blueberry&animation=rise" alt="stats"/>
+      </td>
+    </tr>
+  </table>
 </div>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daoshureal&theme=blueberry&animation=rise)
