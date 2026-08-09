@@ -19,3 +19,5 @@ You'll usually find me staring at:
 <div align="center">
   <img src="cricket.webp" width="180" alt="cricket"/>
 </div>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daoshureal&theme=blueberry&animation=rise)
